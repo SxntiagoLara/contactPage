@@ -5,7 +5,7 @@ import indexRoutes from './routes/routes.js'
 
 const app = express ()
 
-//these sintax is for global direction
+//these sintax of global direction
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
 
